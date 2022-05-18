@@ -4,10 +4,10 @@ void main() {
   return runApp(
     MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.teal.shade700,
+        backgroundColor: Color(0xff032459),
         appBar: AppBar(
           title: Text('Dadoos'),
-          backgroundColor: Colors.teal.shade900,
+          backgroundColor: Color(0xff032459),
         ),
         body: Dadoos(),
       ),
