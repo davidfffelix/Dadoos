@@ -4,20 +4,18 @@ void main() {
   return runApp(
     MaterialApp(
       home: Scaffold(
-        backgroundColor: Color(0xff032459),
+        backgroundColor: Colors.teal.shade700,
         appBar: AppBar(
           title: Text('Dadoos'),
-          backgroundColor: Color(0xff032459),
+          backgroundColor: Colors.teal.shade900,
         ),
         body: Dadoos(),
       ),
-  ),
+    ),
   );
 }
 
 class Dadoos extends StatelessWidget {
-  const Dadoos({Key? key}) : super(key: key);
-
   @override
   Widget build(BuildContext context) {
     return Container();

@@ -1,16 +1,33 @@
-# dadoos
+<p align="center">
+  <img width="800" height="200" src="https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/imagens/banner_polimorfismo.png">
+</p>
 
-A new Flutter project.
+# Dadoos 🎲
 
-## Getting Started
+## Objetivo
 
-This project is a starting point for a Flutter application.
+O objetivo desse módulo é apresentar os principais conceitos de programação que formarão a base da maioria dos aplicativos que você construirá no futuro. Ao construir esse aplicativo você aprenderá criar aplicativos com funcionalidade usando o setState() dentro de widgets Stateful do Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+## O que nós iremos criar?
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Vamos fazer um aplicativo para lançar dados no qual você joga os dados ao pressioná-los na tela.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img width="219" height="439" src="https://github.com/polimorfismo/assets-curso-flutter-e-dart/blob/main/gifs/app-dados-gif.gif">
+</p>
+
+## O que nós iremos aprender?
+
+* Como usar widgets Stateless do Flutter para projetar a interface do usuário.
+* Como usar widgets Stateful do Flutter para atualizar a interface do usuário.
+* Como alterar as propriedades de vários widgets.
+* Como usar o onPressed para detectar cliques nos botões.
+* Como usar o setState para atualizar os locais onde as variáveis foram modificadas.
+* Como usar o widget Expanded para fazer os widgets se adaptarem às dimensões da tela.
+* Compreender e utilizar a interpolação de strings.
+* Aprender os conceitos básicos da linguagem Dart, como tipos de dados e funções.
+* Codificar e usar os controles de gestos.
+
+
+
+>O curso completo pode ser encontrado gratuitamente no nosso canal do YouTube [Polimorfismo](https://youtube.com/channel/UCN0xtkhf8j2R6n1xKYCiJBA/).
