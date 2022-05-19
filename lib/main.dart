@@ -18,6 +18,11 @@ void main() {
 class Dadoos extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return Row(
+      children: [
+        Image(image: AssetImage('imagens/dado1.png'),
+        ),
+      ],
+    );
   }
 }
