@@ -24,6 +24,11 @@ class Dadoos extends StatelessWidget {
           child: Image(image: AssetImage('imagens/dado1.png'),
           ),
         ),
+
+        Expanded(
+          child: Image(image: AssetImage('imagens/dado1.png'),
+          ),
+        ),
       ],
     );
   }
