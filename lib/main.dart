@@ -20,7 +20,9 @@ class Dadoos extends StatelessWidget {
   Widget build(BuildContext context) {
     return Row(
       children: [
-        Image(image: AssetImage('imagens/dado1.png'),
+        Expanded(
+          child: Image(image: AssetImage('imagens/dado1.png'),
+          ),
         ),
       ],
     );
