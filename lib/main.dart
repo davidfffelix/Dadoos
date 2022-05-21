@@ -21,12 +21,15 @@ class Dadoos extends StatelessWidget {
     return Row(
       children: [
         Expanded(
-          child: Image(image: AssetImage('imagens/dado1.png'),
+          flex: 2,
+          child: Image(
+            image: AssetImage('imagens/dado1.png'),
           ),
         ),
-
         Expanded(
-          child: Image(image: AssetImage('imagens/dado1.png'),
+          flex: 1,
+          child: Image(
+            image: AssetImage('imagens/dado1.png'),
           ),
         ),
       ],
