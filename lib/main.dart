@@ -4,10 +4,10 @@ void main() {
   return runApp(
     MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.teal.shade700,
+        backgroundColor: Colors.indigo.shade800,
         appBar: AppBar(
           title: Text('Dadoos'),
-          backgroundColor: Colors.teal.shade900,
+          backgroundColor: Colors.indigo.shade900,
         ),
         body: Dadoos(),
       ),
@@ -27,9 +27,7 @@ class Dadoos extends StatelessWidget {
         Expanded(
           child: Image.asset('imagens/dado1.png'),
           ),
-        ),
       ],
     );
   }
 }
-
