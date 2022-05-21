@@ -22,20 +22,25 @@ class Dadoos extends StatelessWidget {
       child: Row(
         children: [
           Expanded(
-            child: Padding(
-              padding: EdgeInsets.fromLTRB(8, 8, 10, 8),
+            child: TextButton(
+              onPressed:(){
+                print('Botão Esquerdo Pressionado');
+              },
               child: Image.asset('imagens/dado1.png'),
             ),
           ),
 
           Expanded(
-            child: Padding(
-              padding: EdgeInsets.fromLTRB(10, 8, 8, 8),
+            child: TextButton(
+              onPressed: (){
+                print('Botão Direito Pressionado');
+              },
               child: Image.asset('imagens/dado1.png'),
-            ),
+             ),
             ),
         ],
       ),
     );
   }
 }
+
