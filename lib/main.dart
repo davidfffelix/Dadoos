@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'dart:math';
 
 void main() {
   return runApp(
@@ -33,7 +34,7 @@ class _DadoosState extends State<Dadoos> {
             child: TextButton(
               onPressed:(){
                 setState(() {
-                  numeroDadoEsquerda = 3;
+                  numeroDadoEsquerda = Random().nextInt(6) + 1;
                   print('Número do dado é $numeroDadoEsquerda.');
                   });
                 },
