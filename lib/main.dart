@@ -36,7 +36,8 @@ class _DadoosState extends State<Dadoos> {
               onPressed:(){
                 setState(() {
                   numeroDadoEsquerda = Random().nextInt(6) + 1;
-                  print('Número do dado é $numeroDadoEsquerda.');
+                  numeroDadoDireita = Random().nextInt(6) + 1;
+                  print('Número do dado esquerdo é $numeroDadoEsquerda.');
                   });
                 },
               child: Image.asset('imagens/dado$numeroDadoEsquerda.png'),
@@ -48,6 +49,7 @@ class _DadoosState extends State<Dadoos> {
               onPressed: (){
                 setState(() {
                   numeroDadoDireita = Random().nextInt(6) + 1;
+                  numeroDadoEsquerda = Random().nextInt(6) + 1;
                   print('Número do dado direito é $numeroDadoDireita.');
                 });
               },
