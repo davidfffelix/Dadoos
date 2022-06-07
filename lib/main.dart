@@ -51,7 +51,13 @@ class _DadoosState extends State<Dadoos> {
           Expanded(
             child: TextButton(
               onPressed: (){
+<<<<<<< HEAD
                 alterarFacesDosDados();
+=======
+                setState(() {
+                  alterarFacesDosDados();
+                });
+>>>>>>> efc3923f4b9606d9e4d8d0ddbd4efd9578b4e166
               },
               child: Image.asset('imagens/dado$numeroDadoDireita.png'),
             ),

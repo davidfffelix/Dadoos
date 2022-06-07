@@ -7,7 +7,11 @@
          FlutterApplication and put your custom class here. -->
     <application
 
+<<<<<<< HEAD
         android:label="Dadoos"
+=======
+        android:label="dadoos"
+>>>>>>> efc3923f4b9606d9e4d8d0ddbd4efd9578b4e166
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
