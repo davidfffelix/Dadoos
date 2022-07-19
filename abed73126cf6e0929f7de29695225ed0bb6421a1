@@ -1,0 +1,187 @@
+[33mcommit abed73126cf6e0929f7de29695225ed0bb6421a1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 6d2c0da efc3923
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Mon Jun 6 21:42:35 2022 -0300
+
+    Merge branch 'main' of https://github.com/davidfffelix/Dadoos
+
+[33mcommit 6d2c0daaa21d33a15479641ca2d551cc1259bd20[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Mon Jun 6 21:40:53 2022 -0300
+
+    Update app name and icons
+
+[33mcommit efc3923f4b9606d9e4d8d0ddbd4efd9578b4e166[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Wed May 25 15:15:37 2022 -0300
+
+    Insert function for optimization
+
+[33mcommit 1cdee3907c56a7cfe785a18502548c55aa11c2e0[m
+Merge: 76b5d8d d585368
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Tue May 24 15:54:30 2022 -0300
+
+    Merge branch 'main' of https://github.com/davidfffelix/Dadoos
+
+[33mcommit 76b5d8d9ba4fb9dbb757bf1ab711ef2366352f43[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Tue May 24 15:54:25 2022 -0300
+
+    Update function
+
+[33mcommit d58536850d441ec1eeef73adbeaa411d0ad625d4[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Mon May 23 12:27:44 2022 -0300
+
+    Update README.md
+
+[33mcommit 179cf76d1d86243a5352c7e2550ebc54162a4bc6[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Mon May 23 12:26:54 2022 -0300
+
+    Update README.md
+
+[33mcommit 3cb555993688de1f6c548305db43804cd831802d[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Mon May 23 12:26:18 2022 -0300
+
+    Insert Insert Random right dice
+
+[33mcommit fe10dbc59865bbc37bcc18434cbfda0b3d346ffd[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Mon May 23 12:20:42 2022 -0300
+
+    Insert Random left dice
+
+[33mcommit 191640b93289185afc14d2a1616cbc26654207a6[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Mon May 23 12:02:23 2022 -0300
+
+    Change from Stateless to Stateful state
+
+[33mcommit f732f13ea615efaec7ee4456aa15ccded10f392a[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Sun May 22 09:30:02 2022 -0300
+
+    Insert variable
+
+[33mcommit d87275212a9089f9014de83dfe712eaaf9f4e20f[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Sat May 21 11:34:19 2022 -0300
+
+    Remove Padding and insert TextButton with onPressed
+
+[33mcommit 6f34bb27c8c04d55630ce7aa1ca615259382dfcc[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Sat May 21 11:06:12 2022 -0300
+
+    Insert Padding Images
+
+[33mcommit 11263ca79c8b4f8ec09e18e1bbeedd50034de971[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Sat May 21 10:45:56 2022 -0300
+
+    Insert Center in Row
+
+[33mcommit 745fc8435cc669c4684271cfe13af92e6f6658cf[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Sat May 21 10:29:31 2022 -0300
+
+    Update color AppBar and Scaffold
+
+[33mcommit f24d765eb803336cfa7470a36e466ec2f8884d13[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Sat May 21 10:04:19 2022 -0300
+
+    Correction in code
+
+[33mcommit 6700cbef3a7f65de0f970ffe28a4ef5e04eff1a5[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Fri May 20 23:10:29 2022 -0300
+
+    Insert Image.asset
+
+[33mcommit 491471f1a08a1db781ef732dcf850f20f5e73c75[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Fri May 20 23:03:41 2022 -0300
+
+    Insert flex in the Expanded
+
+[33mcommit e649ec761d2d53e0037c333f298584e1d2402afb[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Thu May 19 22:28:51 2022 -0300
+
+    Insert new Expanded
+
+[33mcommit 4a78c4f0a55f39ecb12ea75de3b899b1d327f470[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Thu May 19 22:24:56 2022 -0300
+
+    Adjust Image with Expanded
+
+[33mcommit 55897da6b60466a8261a6fe631de0ccd89f4e62c[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Wed May 18 22:31:57 2022 -0300
+
+    Insert Image
+
+[33mcommit 40cec01d18b9470bbf09f759c6cfd01de75f86b7[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Wed May 18 22:15:02 2022 -0300
+
+    Update configs
+
+[33mcommit c8c78005cb5df133746d32a7044445e1b60e1a6f[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Wed May 18 18:36:46 2022 -0300
+
+    Update file AndroidManifest
+
+[33mcommit eae441118f3d8980eefa196cbd895f510180e7c5[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Wed May 18 18:04:21 2022 -0300
+
+    Update project
+
+[33mcommit 8624be35846ea17740c50eb1456a9f33b8967047[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Tue May 17 22:25:44 2022 -0300
+
+    Update Color
+
+[33mcommit 22427517bc07a29c29b9f6c18d376a20c6cb4dfc[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Mon May 16 22:32:17 2022 -0300
+
+    Insert icon
+
+[33mcommit 265285c434454781444978a8d46e43cd41d7aebc[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Mon May 16 22:21:21 2022 -0300
+
+    Update Code
+
+[33mcommit b0113296ea61db8e1c824923b851cc1fb7c43f64[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Sun May 15 22:24:17 2022 -0300
+
+    Update file yaml
+
+[33mcommit 869c97b6842fc32a3b4ef355b967815e25c77d26[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Sun May 15 22:22:49 2022 -0300
+
+    Insert images
+
+[33mcommit cc8580c2667afdaaefc71ae4a26ea3d1cef851d5[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Sun May 15 22:19:21 2022 -0300
+
+    Update project
+
+[33mcommit e5883e11736a82d527ce5b0aa6ea315a21d933f9[m
+Author: David Felix <davidffelix@hotmail.com>
+Date:   Sun May 15 22:17:02 2022 -0300
+
+    Initial commit
